@@ -1,36 +1,34 @@
-# DSA_Lab
+# 🚀 Data Structures & Algorithms (DSA) Lab
 
-This repository contains my Data Structures and Algorithms (DSA) lab work, implemented from scratch to build a deep understanding of how core structures and algorithms actually work under the hood.
-
-The goal is not just to pass a course, but to maintain a clean, reusable reference of **well-implemented** DSA code that I can use for interviews, competitive programming, and future projects.
+Welcome to my **DSA Lab** repository. This project is a dedicated space where I implement core data structures and algorithms from scratch. The focus is on building a deep, "under-the-hood" understanding of how these systems manage data and optimize performance.
 
 ---
 
-## 📌 Objectives
+## 🎯 Objectives
 
-- Develop a solid foundation in classical data structures and algorithms.
-- Implement each concept from scratch, not only relying on library implementations.
-- Practice complexity analysis (time and space) for all major operations.
-- Follow clean, modular, and well-documented coding practices.
+- **From-Scratch Implementation:** Building structures without relying solely on high-level library functions.
+- **Complexity Analysis:** Documenting the **Big O** time and space complexity for every operation.
+- **Clean Code:** Maintaining modular, readable, and reusable implementations.
+- **Interview Readiness:** Creating a high-quality reference for technical interviews and competitive programming.
 
 ---
 
-## 📁 Project Structure
+## 📁 Repository Structure
 
-> Note: Adjust folder names if your structure is different.
+The laboratory is organized by data structure type to ensure easy navigation:
 
 ```text
 DSA_Lab/
-├── 01_Arrays/
-├── 02_Linked_Lists/
-├── 03_Stacks_Queues/
-├── 04_Recursion_Backtracking/
-├── 05_Trees_BST/
-├── 06_Heaps_PriorityQueue/
-├── 07_Hashing/
-├── 08_Graphs/
-├── 09_Sorting_Searching/
-├── 10_Dynamic_Programming/
-├── common/           # Shared utilities and helpers
-└── docs/             # Notes, diagrams, complexity tables
+├── 📂 01_Arrays                 # Static and Dynamic Arrays
+├── 📂 02_Linked_Lists           # Singly, Doubly, and Circular
+├── 📂 03_Stacks_Queues          # Linear and Circular implementations
+├── 📂 04_Recursion_Backtracking # Classical problems (N-Queens, Maze)
+├── 📂 05_Trees_BST              # Binary Trees and Search Trees
+├── 📂 06_Heaps_PriorityQueue    # Min/Max Heaps
+├── 📂 07_Hashing                # Hash Maps and Collision Handling
+├── 📂 08_Graphs                 # Adjacency Lists, BFS, DFS
+├── 📂 09_Sorting_Searching      # QuickSort, MergeSort, Binary Search
+├── 📂 10_Dynamic_Programming    # Optimization problems
+├── 📂 common/                   # Shared utility functions
+└── 📂 docs/                     # Complexity tables and diagrams
 
